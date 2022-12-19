@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://bbmiranda.github.io/bruno.b.miranda/">
-	<img alt="Logo" src="image/SoulCode.png" />
+	<img alt="Logo" src="images/SoulCode.png" />
    </a>
    <br>
 </h1>
