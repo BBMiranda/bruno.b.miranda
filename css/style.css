@@ -531,6 +531,12 @@ h3.my-profession {
   max-width: 33%;
   margin-bottom: 30px;
 }
+
+.quadro {
+  width: 330px;
+  height: 200px;
+}
+
 .portfolio .portfolio-item-inner{
   border: 6px solid var(--bg-black-100);
   border-radius: 10px;
